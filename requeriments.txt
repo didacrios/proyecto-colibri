@@ -1,6 +1,6 @@
 beautifulsoup4
 pycurl
-django==1.4.5
+django==2.2.24
 south
 django-tastypie
 django-admin-tools
